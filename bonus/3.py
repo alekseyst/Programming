@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 cons = 'eyuioa'
-word = input('Введите слово: ').lower()
+word = input('Введите слово или фразу: ').lower()
 
 cons_number = 0
 for letter in word:
