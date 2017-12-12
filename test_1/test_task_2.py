@@ -1,3 +1,5 @@
+'''Случайно сделал вариант 1 вместо варианта 2, прошу проверять вариант 1('''
+
 def fined_problems():
     with open('Extinct_languages.tsv', encoding='utf-8') as f:
         count = 0
